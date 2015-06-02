@@ -5,5 +5,5 @@ BASED ON:
     - EXPRESS
     - NODE
 
-Tested width chrome extension:
+Tested with chrome extension:
     - POSTMAN
